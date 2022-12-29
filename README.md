@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @MarkEidsaune
-- I am a data nerd 📈 🤘
+👋 Hi, I’m @MarkEidsaune
+> I am a data nerd 📈 🤘
